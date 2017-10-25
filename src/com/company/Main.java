@@ -17,8 +17,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-
+     // creating a Recipe object
         Recipe recipe ;
         Scanner keyboard= new Scanner (System.in);
         ArrayList<Recipe> recipeArrayList= new ArrayList<> ();
